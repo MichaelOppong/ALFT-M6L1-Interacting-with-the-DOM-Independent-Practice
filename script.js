@@ -45,10 +45,7 @@ ________._______ ("___", ________() {
     title.innerHTML = "Game over.";
 });
 
-*/
 
-
-/* Bonus
 
 
 5. When update score button is clicked, the counter score becomes "1" instead of 0. 
